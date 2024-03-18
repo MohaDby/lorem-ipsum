@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 10px;
+  width: 619px;
+  height: 283px;
+  background-color: #c4c4c4;
+  margin-bottom: 20px;
+}
+
+.container h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.container p {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
